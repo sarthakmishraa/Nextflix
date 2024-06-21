@@ -15,13 +15,14 @@ Nextflix leverages the power of Google Gemini API to deliver customized movie re
 
 ## Snippets
 
-![nextflix_snip_1](./assets/nextflix_snip_1.jpg)
-
-![nextflix_snip_2](./assets/nextflix_snip_2.jpg)
-
-![nextflix_snip_3](./assets/nextflix_snip_3.jpg)
-
-![nextflix_snip_4](./assets/nextflix_snip_4.jpg)
+<div>
+    <img src="./assets/nextflix_snip_1.jpg" alt="Nextflix Home" width="300" />
+    <img src="./assets/nextflix_snip_2.jpg" alt="Nextflix Home" width="300" />
+</div>
+<div>
+    <img src="./assets/nextflix_snip_3.jpg" alt="Nextflix Home" width="300" />
+    <img src="./assets/nextflix_snip_4.jpg" alt="Nextflix Home" width="300" />
+</div
 
 ## Tech Used
 
