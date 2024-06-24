@@ -22,7 +22,7 @@ Nextflix leverages the power of Google Gemini API to deliver customized movie re
 <div>
     <img src="./assets/nextflix_snip_3.jpg" alt="Nextflix Home" width="300" />
     <img src="./assets/nextflix_snip_4.jpg" alt="Nextflix Home" width="300" />
-</div
+</div>
 
 ## Tech Used
 
